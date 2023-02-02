@@ -3,7 +3,7 @@
 """
 Created on Thu Feb  2 12:50:24 2023
 
-@author: prpa
+@author: claudia
 """
 
 from multiprocessing import Process
