@@ -1,0 +1,77 @@
+Script started on 2023-02-02 12:20:57+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;alumno@aula405: ~[01;32malumno@aula405[00m:[01;34m~[00m$ git clone [7mgit@github.com:AinhoaDC/prueba.git[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit@github.com:AinhoaDC/prueba.git
+[?2004lClonando en 'prueba'...
+The authenticity of host 'github.com (140.82.121.3)' can't be established.
+ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.
+This key is not known by any other names
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
+git@github.com: Permission denied (publickey).
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+[?2004h]0;alumno@aula405: ~[01;32malumno@aula405[00m:[01;34m~[00m$ ^[[200~git@github.com:AinhoaDC/prueba.git~[C[1Pgit@github.com:AinhoaDC/prueba.git~[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pgit@github.com:AinhoaDC/prueba.git~[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pgit@github.com:AinhoaDC/prueba.git~[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pgit@github.com:AinhoaDC/prueba.git~[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pgit@github.com:AinhoaDC/prueba.git~[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Pgit@github.com:AinhoaDC/prueba.git~[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004lbash: git@github.com:AinhoaDC/prueba.git~: No existe el archivo o el directorio
+[?2004h]0;alumno@aula405: ~[01;32malumno@aula405[00m:[01;34m~[00m$ unzip de[K[KDescargas/ shh[K[Ksh.zip
+[?2004lunzip:  cannot find or open Descargas/, Descargas/.zip or Descargas/.ZIP.
+[?2004h]0;alumno@aula405: ~[01;32malumno@aula405[00m:[01;34m~[00m$ unzip Descargas/ ssh.zip[1P[1P[1P[1P[1P[1P[1P[1P[1@o[1@w[1@n[1@l[1@o[1@a[1@n[1@d[1@s
+[?2004lunzip:  cannot find or open Downloands/, Downloands/.zip or Downloands/.ZIP.
+[?2004h]0;alumno@aula405: ~[01;32malumno@aula405[00m:[01;34m~[00m$ unzip Descargas / ssh.zip
+[?2004lunzip:  cannot find or open Descargas, Descargas.zip or Descargas.ZIP.
+[?2004h]0;alumno@aula405: ~[01;32malumno@aula405[00m:[01;34m~[00m$ unzip Descargas / ssh.zip[K[K[K 
+[?2004lunzip:  cannot find or open Descargas, Descargas.zip or Descargas.ZIP.
+[?2004h]0;alumno@aula405: ~[01;32malumno@aula405[00m:[01;34m~[00m$ git clone [7mgit@github.com:AinhoaDC/prueba.git[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit@github.com:AinhoaDC/prueba.git
+[?2004lClonando en 'prueba'...
+git@github.com: Permission denied (publickey).
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+[?2004h]0;alumno@aula405: ~[01;32malumno@aula405[00m:[01;34m~[00m$ unzip Descargas/ssh.zip
+[?2004lArchive:  Descargas/ssh.zip
+  inflating: .ssh/id_rsa             
+  inflating: .ssh/id_rsa.pub         
+replace .ssh/known_hosts? [y]es, [n]o, [A]ll, [N]one, [r]ename: 
+error:  invalid response [{ENTER}]
+replace .ssh/known_hosts? [y]es, [n]o, [A]ll, [N]one, [r]ename: yes
+  inflating: .ssh/known_hosts        
+[?2004h]0;alumno@aula405: ~[01;32malumno@aula405[00m:[01;34m~[00m$ unzip Descargas/ssh.zip[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone git@github.com:AinhoaDC/prueba.git
+[?2004lClonando en 'prueba'...
+The authenticity of host 'github.com (140.82.121.3)' can't be established.
+ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.
+This key is not known by any other names
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
+sign_and_send_pubkey: signing failed for RSA "/home/alumno/.ssh/id_rsa" from agent: agent refused operation
+git@github.com: Permission denied (publickey).
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+[?2004h]0;alumno@aula405: ~[01;32malumno@aula405[00m:[01;34m~[00m$ git clone git@github.com:AinhoaDC/prueba.git
+[?2004lClonando en 'prueba'...
+warning: Pareces haber clonado un repositorio sin contenido.
+[?2004h]0;alumno@aula405: ~[01;32malumno@aula405[00m:[01;34m~[00m$ python3
+[?2004lPython 3.10.6 (main, Nov 14 2022, 16:10:14) [GCC 11.3.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 
+[?2004h]0;alumno@aula405: ~[01;32malumno@aula405[00m:[01;34m~[00m$ mkdir prueba.py[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kprueba.py
+[?2004lprueba.py: orden no encontrada
+[?2004h]0;alumno@aula405: ~[01;32malumno@aula405[00m:[01;34m~[00m$ python3
+[?2004lPython 3.10.6 (main, Nov 14 2022, 16:10:14) [GCC 11.3.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> prueba.py
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'prueba' is not defined
+>>> 
+[?2004h]0;alumno@aula405: ~[01;32malumno@aula405[00m:[01;34m~[00m$ spyder
+[?2004lSpyder is already running. If you want to open a new 
+instance, please pass to it the --new-instance option
+[?2004h]0;alumno@aula405: ~[01;32malumno@aula405[00m:[01;34m~[00m$ prueba.py
+[?2004lprueba.py: orden no encontrada
+[?2004h]0;alumno@aula405: ~[01;32malumno@aula405[00m:[01;34m~[00m$ [?2004l
+exit
+
+Script done on 2023-02-02 12:49:43+01:00 [COMMAND_EXIT_CODE="127"]
