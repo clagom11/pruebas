@@ -1,0 +1,1136 @@
+Script started on Fri Feb  3 19:27:46 2023
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Air-de-Laura.local/Users/lau/git[0m[27m[24m[Jlau@MacBook-Air-de-Laura git % [K[?2004hccloe ne    c  ggit clone [7mgit@github.com:clagom11/pruebas.git[27m[35D[27mg[27mi[27mt[27m@[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m:[27mc[27ml[27ma[27mg[27mo[27mm[27m1[27m1[27m/[27mp[27mr[27mu[27me[27mb[27ma[27ms[27m.[27mg[27mi[27mt[?2004l
+Cloning into 'pruebas'...
+remote: Enumerating objects: 19, done.[K
+remote: Counting objects:   5% (1/19)[Kremote: Counting objects:  10% (2/19)[Kremote: Counting objects:  15% (3/19)[Kremote: Counting objects:  21% (4/19)[Kremote: Counting objects:  26% (5/19)[Kremote: Counting objects:  31% (6/19)[Kremote: Counting objects:  36% (7/19)[Kremote: Counting objects:  42% (8/19)[Kremote: Counting objects:  47% (9/19)[Kremote: Counting objects:  52% (10/19)[Kremote: Counting objects:  57% (11/19)[Kremote: Counting objects:  63% (12/19)[Kremote: Counting objects:  68% (13/19)[Kremote: Counting objects:  73% (14/19)[Kremote: Counting objects:  78% (15/19)[Kremote: Counting objects:  84% (16/19)[Kremote: Counting objects:  89% (17/19)[Kremote: Counting objects:  94% (18/19)[Kremote: Counting objects: 100% (19/19)[Kremote: Counting objects: 100% (19/19), done.[K
+remote: Compressing objects:   7% (1/13)[Kremote: Compressing objects:  15% (2/13)[Kremote: Compressing objects:  23% (3/13)[Kremote: Compressing objects:  30% (4/13)[Kremote: Compressing objects:  38% (5/13)[Kremote: Compressing objects:  46% (6/13)[Kremote: Compressing objects:  53% (7/13)[Kremote: Compressing objects:  61% (8/13)[Kremote: Compressing objects:  69% (9/13)[Kremote: Compressing objects:  76% (10/13)[Kremote: Compressing objects:  84% (11/13)[Kremote: Compressing objects:  92% (12/13)[Kremote: Compressing objects: 100% (13/13)[Kremote: Compressing objects: 100% (13/13), done.[K
+remote: Total 19 (delta 7), reused 8 (delta 4), pack-reused 0[K
+Receiving objects:   5% (1/19)Receiving objects:  10% (2/19)Receiving objects:  15% (3/19)Receiving objects:  21% (4/19)Receiving objects:  26% (5/19)Receiving objects:  31% (6/19)Receiving objects:  36% (7/19)Receiving objects:  42% (8/19)Receiving objects:  47% (9/19)Receiving objects:  52% (10/19)Receiving objects:  57% (11/19)Receiving objects:  63% (12/19)Receiving objects:  68% (13/19)Receiving objects:  73% (14/19)Receiving objects:  78% (15/19)Receiving objects:  84% (16/19)Receiving objects:  89% (17/19)Receiving objects:  94% (18/19)Receiving objects: 100% (19/19)Receiving objects: 100% (19/19), 14.64 KiB | 3.66 MiB/s, done.
+Resolving deltas:   0% (0/7)Resolving deltas:  14% (1/7)Resolving deltas:  28% (2/7)Resolving deltas:  42% (3/7)Resolving deltas:  57% (4/7)Resolving deltas:  71% (5/7)Resolving deltas:  85% (6/7)Resolving deltas: 100% (7/7)Resolving deltas: 100% (7/7), done.
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Air-de-Laura.local/Users/lau/git[0m[27m[24m[Jlau@MacBook-Air-de-Laura git % [K[?2004hccd pruebas[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Air-de-Laura.local/Users/lau/git/pruebas[0m[27m[24m[Jlau@MacBook-Air-de-Laura pruebas % [K[?2004hlls[?2004l
+README.md			pr2.py
+multiprocessingAinhoa.txt	pr3.py
+multiprocessingClaudia.txt	pr4.py
+pr1.py				pr5.py
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Air-de-Laura.local/Users/lau/git/pruebas[0m[27m[24m[Jlau@MacBook-Air-de-Laura pruebas % [K[?2004hppython3 pr1.py[?2004l
+fin
+hola 0
+hola 0
+hola 1
+hola 1
+hola 2
+hola 2
+hola 3
+hola 4
+hola 3
+hola 4
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Air-de-Laura.local/Users/lau/git/pruebas[0m[27m[24m[Jlau@MacBook-Air-de-Laura pruebas % [K[?2004hppython pr2.py3 pr2.py[1C[1C[1C[1C[1C[1C[1C[?2004l
+fin
+hola soy ana 9 vuelta 0
+hola soy ana 1 vuelta 0
+hola soy ana 3 vuelta 0
+hola soy ana 0 vuelta 0
+hola soy ana 6 vuelta 0
+hola soy ana 2 vuelta 0
+hola soy ana 5 vuelta 0
+hola soy ana 4 vuelta 0
+hola soy ana 5 vuelta 1
+hola soy ana 7 vuelta 0
+hola soy ana 8 vuelta 0
+adios
+hola soy ana 6 vuelta 1
+hola soy ana 8 vuelta 1
+hola soy ana 5 vuelta 2
+hola soy ana 4 vuelta 1
+hola soy ana 7 vuelta 1
+hola soy ana 2 vuelta 1
+hola soy ana 1 vuelta 1
+hola soy ana 3 vuelta 1
+hola soy ana 9 vuelta 1
+hola soy ana 6 vuelta 2
+hola soy ana 3 vuelta 2
+hola soy ana 0 vuelta 1
+hola soy ana 9 vuelta 2
+hola soy ana 8 vuelta 2
+hola soy ana 1 vuelta 2
+hola soy ana 4 vuelta 2
+hola soy ana 2 vuelta 2
+hola soy ana 7 vuelta 2
+hola soy ana 0 vuelta 2
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Air-de-Laura.local/Users/lau/git/pruebas[0m[27m[24m[Jlau@MacBook-Air-de-Laura pruebas % [K[?2004hppyh thon3 pr2 3,py   .py[?2004l
+fin
+hola soy ana_1, 52275, True, vuelta 0
+adios
+hola soy ana_2, 52276, True, vuelta 0
+hola soy ana_0, 52274, True, vuelta 0
+hola soy ana_0, 52274, True, vuelta 1
+hola soy ana_2, 52276, True, vuelta 1
+hola soy ana_1, 52275, True, vuelta 1
+hola soy ana_1, 52275, True, vuelta 2
+hola soy ana_1, 52275, True, vuelta 3
+hola soy ana_2, 52276, True, vuelta 2
+hola soy ana_0, 52274, True, vuelta 2
+hola soy ana_0, 52274, True, vuelta 3
+hola soy ana_0, 52274, True, vuelta 4
+hola soy ana_2, 52276, True, vuelta 3
+hola soy ana_1, 52275, True, vuelta 4
+hola soy ana_2, 52276, True, vuelta 4
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Air-de-Laura.local/Users/lau/git/pruebas[0m[27m[24m[Jlau@MacBook-Air-de-Laura pruebas % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Air-de-Laura.local/Users/lau/git/pruebas[0m[27m[24m[Jlau@MacBook-Air-de-Laura pruebas % [K[?2004hppython 3 pr4.py[?2004l
+Valor inicial del contador 0
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 120, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 130, in _main
+    self = reduction.pickle.load(from_parent)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/synchronize.py", line 110, in __setstate__
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 120, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 130, in _main
+    self = reduction.pickle.load(from_parent)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/synchronize.py", line 110, in __setstate__
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 120, in spawn_main
+FileNotFoundError: [Errno 2] No such file or directory
+    exitcode = _main(fd, parent_sentinel)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 130, in _main
+    self = reduction.pickle.load(from_parent)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/synchronize.py", line 110, in __setstate__
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 120, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 130, in _main
+    self = reduction.pickle.load(from_parent)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/synchronize.py", line 110, in __setstate__
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 120, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 130, in _main
+    self = reduction.pickle.load(from_parent)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/synchronize.py", line 110, in __setstate__
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 120, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 130, in _main
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 120, in spawn_main
+    self = reduction.pickle.load(from_parent)
+    exitcode = _main(fd, parent_sentinel)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/synchronize.py", line 110, in __setstate__
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 130, in _main
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+    self = reduction.pickle.load(from_parent)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/synchronize.py", line 110, in __setstate__
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 120, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 130, in _main
+    self = reduction.pickle.load(from_parent)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/synchronize.py", line 110, in __setstate__
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Air-de-Laura.local/Users/lau/git/pruebas[0m[27m[24m[Jlau@MacBook-Air-de-Laura pruebas % [K[?2004heemax cs pr4.py[?2004l
+zsh: command not found: emacs
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Air-de-Laura.local/Users/lau/git/pruebas[0m[27m[24m[Jlau@MacBook-Air-de-Laura pruebas % [K[?2004hccat pr4.py[?2004l
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Feb  2 12:50:24 2023
+
+@author: claudia
+"""
+
+from multiprocessing import Process
+from multiprocessing import current_process
+from multiprocessing import Value
+import time
+def f(c):
+    for i in range(100):
+        temp = c.value + 1
+        print (f"hola soy {current_process().pid}, vuelta: {i}, contador: {c.value}")
+        time.sleep(0.1)
+        c.value = temp
+if __name__ == "__main__":
+    N = 8
+    lp = []
+    c = Value('i', 0)
+    for i in range(N):
+        lp.append(Process(target=f, args=(c,)))
+    print ("Valor inicial del contador", c.value)
+    for p in lp:
+        p.start()[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Air-de-Laura.local/Users/lau/git/pruebas[0m[27m[24m[Jlau@MacBook-Air-de-Laura pruebas % [K[?2004hppython3 pr3.py[?2004l
+fin
+hola soy ana_1, 52463, True, vuelta 0
+hola soy ana_2, 52464, True, vuelta 0
+hola soy ana_0, 52462, True, vuelta 0
+adios
+hola soy ana_0, 52462, True, vuelta 1
+hola soy ana_0, 52462, True, vuelta 2
+hola soy ana_1, 52463, True, vuelta 1
+hola soy ana_2, 52464, True, vuelta 1
+hola soy ana_2, 52464, True, vuelta 2
+hola soy ana_1, 52463, True, vuelta 2
+hola soy ana_1, 52463, True, vuelta 3
+hola soy ana_0, 52462, True, vuelta 3
+hola soy ana_2, 52464, True, vuelta 3
+hola soy ana_2, 52464, True, vuelta 4
+hola soy ana_1, 52463, True, vuelta 4
+hola soy ana_0, 52462, True, vuelta 4
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Air-de-Laura.local/Users/lau/git/pruebas[0m[27m[24m[Jlau@MacBook-Air-de-Laura pruebas % [K[?2004hppython 3 pr4.py[?2004l
+Valor inicial del contador 0
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 120, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 130, in _main
+    self = reduction.pickle.load(from_parent)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/synchronize.py", line 110, in __setstate__
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 120, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 130, in _main
+    self = reduction.pickle.load(from_parent)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/synchronize.py", line 110, in __setstate__
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 120, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 130, in _main
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 120, in spawn_main
+    self = reduction.pickle.load(from_parent)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/synchronize.py", line 110, in __setstate__
+    exitcode = _main(fd, parent_sentinel)
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 130, in _main
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory
+    self = reduction.pickle.load(from_parent)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/synchronize.py", line 110, in __setstate__
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 120, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 130, in _main
+    self = reduction.pickle.load(from_parent)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/synchronize.py", line 110, in __setstate__
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 120, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 130, in _main
+    self = reduction.pickle.load(from_parent)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/synchronize.py", line 110, in __setstate__
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 120, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 130, in _main
+    self = reduction.pickle.load(from_parent)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/synchronize.py", line 110, in __setstate__
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 120, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/spawn.py", line 130, in _main
+    self = reduction.pickle.load(from_parent)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/synchronize.py", line 110, in __setstate__
+    self._semlock = _multiprocessing.SemLock._rebuild(*state)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Air-de-Laura.local/Users/lau/git/pruebas[0m[27m[24m[Jlau@MacBook-Air-de-Laura pruebas % [K[?2004hppython3 pr5.py[?2004l
+Valor inicial del contador 0
+hola soy 52532, vuelta: 0, contador: 1
+hola soy 52532, vuelta: 1, contador: 2
+hola soy 52532, vuelta: 2, contador: 3
+hola soy 52532, vuelta: 3, contador: 4
+hola soy 52532, vuelta: 4, contador: 5
+hola soy 52532, vuelta: 5, contador: 6
+hola soy 52532, vuelta: 6, contador: 7
+hola soy 52532, vuelta: 7, contador: 8
+hola soy 52532, vuelta: 8, contador: 9
+hola soy 52532, vuelta: 9, contador: 10
+hola soy 52532, vuelta: 10, contador: 11
+hola soy 52532, vuelta: 11, contador: 12
+hola soy 52532, vuelta: 12, contador: 13
+hola soy 52532, vuelta: 13, contador: 14
+hola soy 52532, vuelta: 14, contador: 15
+hola soy 52532, vuelta: 15, contador: 16
+hola soy 52532, vuelta: 16, contador: 17
+hola soy 52532, vuelta: 17, contador: 18
+hola soy 52532, vuelta: 18, contador: 19
+hola soy 52532, vuelta: 19, contador: 20
+hola soy 52532, vuelta: 20, contador: 21
+hola soy 52532, vuelta: 21, contador: 22
+hola soy 52532, vuelta: 22, contador: 23
+hola soy 52532, vuelta: 23, contador: 24
+hola soy 52532, vuelta: 24, contador: 25
+hola soy 52531, vuelta: 0, contador: 26
+hola soy 52531, vuelta: 1, contador: 27
+hola soy 52532, vuelta: 25, contador: 27
+hola soy 52534, vuelta: 0, contador: 28
+hola soy 52534, vuelta: 1, contador: 29
+hola soy 52534, vuelta: 2, contador: 30
+hola soy 52534, vuelta: 3, contador: 31
+hola soy 52534, vuelta: 4, contador: 32
+hola soy 52531, vuelta: 2, contador: 28
+hola soy 52536, vuelta: 0, contador: 33
+hola soy 52534, vuelta: 5, contador: 34
+hola soy 52531, vuelta: 3, contador: 34
+hola soy 52532, vuelta: 26, contador: 35
+hola soy 52536, vuelta: 1, contador: 35
+hola soy 52531, vuelta: 4, contador: 36
+hola soy 52534, vuelta: 6, contador: 36
+hola soy 52532, vuelta: 27, contador: 37
+hola soy 52536, vuelta: 2, contador: 37
+hola soy 52531, vuelta: 5, contador: 39
+hola soy 52534, vuelta: 7, contador: 39
+hola soy 52532, vuelta: 28, contador: 39
+hola soy 52536, vuelta: 3, contador: 40
+hola soy 52531, vuelta: 6, contador: 41
+hola soy 52534, vuelta: 8, contador: 41
+hola soy 52532, vuelta: 29, contador: 41
+hola soy 52531, vuelta: 7, contador: 42
+hola soy 52536, vuelta: 4, contador: 42
+hola soy 52534, vuelta: 9, contador: 42
+hola soy 52532, vuelta: 30, contador: 43
+hola soy 52531, vuelta: 8, contador: 44
+hola soy 52536, vuelta: 5, contador: 44
+hola soy 52534, vuelta: 10, contador: 44
+hola soy 52532, vuelta: 31, contador: 45
+hola soy 52536, vuelta: 6, contador: 46
+hola soy 52531, vuelta: 9, contador: 46
+hola soy 52534, vuelta: 11, contador: 46
+hola soy 52532, vuelta: 32, contador: 47
+hola soy 52531, vuelta: 10, contador: 47
+hola soy 52536, vuelta: 7, contador: 48
+hola soy 52534, vuelta: 12, contador: 48
+hola soy 52532, vuelta: 33, contador: 49
+hola soy 52531, vuelta: 11, contador: 49
+hola soy 52536, vuelta: 8, contador: 50
+hola soy 52534, vuelta: 13, contador: 50
+hola soy 52536, vuelta: 9, contador: 51
+hola soy 52532, vuelta: 34, contador: 51
+hola soy 52531, vuelta: 12, contador: 51
+hola soy 52534, vuelta: 14, contador: 52
+hola soy 52536, vuelta: 10, contador: 53
+hola soy 52532, vuelta: 35, contador: 54
+hola soy 52531, vuelta: 13, contador: 54
+hola soy 52534, vuelta: 15, contador: 55
+hola soy 52536, vuelta: 11, contador: 55
+hola soy 52532, vuelta: 36, contador: 55
+hola soy 52531, vuelta: 14, contador: 56
+hola soy 52534, vuelta: 16, contador: 56
+hola soy 52536, vuelta: 12, contador: 57
+hola soy 52532, vuelta: 37, contador: 57
+hola soy 52531, vuelta: 15, contador: 58
+hola soy 52534, vuelta: 17, contador: 58
+hola soy 52536, vuelta: 13, contador: 59
+hola soy 52532, vuelta: 38, contador: 60
+hola soy 52534, vuelta: 18, contador: 61
+hola soy 52531, vuelta: 16, contador: 61
+hola soy 52536, vuelta: 14, contador: 61
+hola soy 52532, vuelta: 39, contador: 62
+hola soy 52534, vuelta: 19, contador: 62
+hola soy 52531, vuelta: 17, contador: 62
+hola soy 52536, vuelta: 15, contador: 63
+hola soy 52532, vuelta: 40, contador: 64
+hola soy 52534, vuelta: 20, contador: 64
+hola soy 52531, vuelta: 18, contador: 64
+hola soy 52536, vuelta: 16, contador: 65
+hola soy 52534, vuelta: 21, contador: 66
+hola soy 52532, vuelta: 41, contador: 67
+hola soy 52531, vuelta: 19, contador: 67
+hola soy 52536, vuelta: 17, contador: 67
+hola soy 52534, vuelta: 22, contador: 68
+hola soy 52531, vuelta: 20, contador: 68
+hola soy 52532, vuelta: 42, contador: 68
+hola soy 52536, vuelta: 18, contador: 69
+hola soy 52534, vuelta: 23, contador: 71
+hola soy 52532, vuelta: 43, contador: 71
+hola soy 52531, vuelta: 21, contador: 71
+hola soy 52536, vuelta: 19, contador: 72
+hola soy 52534, vuelta: 24, contador: 73
+hola soy 52532, vuelta: 44, contador: 73
+hola soy 52531, vuelta: 22, contador: 73
+hola soy 52536, vuelta: 20, contador: 74
+hola soy 52532, vuelta: 45, contador: 74
+hola soy 52534, vuelta: 25, contador: 74
+hola soy 52531, vuelta: 23, contador: 74
+hola soy 52536, vuelta: 21, contador: 75
+hola soy 52534, vuelta: 26, contador: 75
+hola soy 52532, vuelta: 46, contador: 75
+hola soy 52531, vuelta: 24, contador: 75
+hola soy 52531, vuelta: 25, contador: 76
+hola soy 52536, vuelta: 22, contador: 76
+hola soy 52532, vuelta: 47, contador: 76
+hola soy 52534, vuelta: 27, contador: 76
+hola soy 52531, vuelta: 26, contador: 77
+hola soy 52536, vuelta: 23, contador: 77
+hola soy 52532, vuelta: 48, contador: 77
+hola soy 52534, vuelta: 28, contador: 77
+hola soy 52536, vuelta: 24, contador: 78
+hola soy 52531, vuelta: 27, contador: 78
+hola soy 52532, vuelta: 49, contador: 79
+hola soy 52534, vuelta: 29, contador: 79
+hola soy 52536, vuelta: 25, contador: 80
+hola soy 52531, vuelta: 28, contador: 80
+hola soy 52532, vuelta: 50, contador: 81
+hola soy 52534, vuelta: 30, contador: 81
+hola soy 52536, vuelta: 26, contador: 82
+hola soy 52531, vuelta: 29, contador: 82
+hola soy 52532, vuelta: 51, contador: 83
+hola soy 52534, vuelta: 31, contador: 84
+hola soy 52536, vuelta: 27, contador: 84
+hola soy 52531, vuelta: 30, contador: 85
+hola soy 52532, vuelta: 52, contador: 85
+hola soy 52536, vuelta: 28, contador: 86
+hola soy 52534, vuelta: 32, contador: 86
+hola soy 52532, vuelta: 53, contador: 87
+hola soy 52531, vuelta: 31, contador: 87
+hola soy 52536, vuelta: 29, contador: 88
+hola soy 52534, vuelta: 33, contador: 89
+hola soy 52531, vuelta: 32, contador: 89
+hola soy 52532, vuelta: 54, contador: 89
+hola soy 52536, vuelta: 30, contador: 90
+hola soy 52534, vuelta: 34, contador: 90
+hola soy 52532, vuelta: 55, contador: 91
+hola soy 52531, vuelta: 33, contador: 91
+hola soy 52536, vuelta: 31, contador: 92
+hola soy 52534, vuelta: 35, contador: 92
+hola soy 52531, vuelta: 34, contador: 93
+hola soy 52532, vuelta: 56, contador: 93
+hola soy 52534, vuelta: 36, contador: 94
+hola soy 52536, vuelta: 32, contador: 95
+hola soy 52532, vuelta: 57, contador: 95
+hola soy 52531, vuelta: 35, contador: 95
+hola soy 52534, vuelta: 37, contador: 96
+hola soy 52536, vuelta: 33, contador: 97
+hola soy 52532, vuelta: 58, contador: 97
+hola soy 52531, vuelta: 36, contador: 97
+hola soy 52534, vuelta: 38, contador: 98
+hola soy 52536, vuelta: 34, contador: 99
+hola soy 52532, vuelta: 59, contador: 99
+hola soy 52531, vuelta: 37, contador: 100
+hola soy 52536, vuelta: 35, contador: 100
+hola soy 52534, vuelta: 39, contador: 100
+hola soy 52532, vuelta: 60, contador: 101
+hola soy 52531, vuelta: 38, contador: 101
+hola soy 52536, vuelta: 36, contador: 102
+hola soy 52534, vuelta: 40, contador: 102
+hola soy 52532, vuelta: 61, contador: 103
+hola soy 52531, vuelta: 39, contador: 104
+hola soy 52534, vuelta: 41, contador: 104
+hola soy 52536, vuelta: 37, contador: 104
+hola soy 52532, vuelta: 62, contador: 105
+hola soy 52531, vuelta: 40, contador: 105
+hola soy 52534, vuelta: 42, contador: 106
+hola soy 52536, vuelta: 38, contador: 106
+hola soy 52532, vuelta: 63, contador: 107
+hola soy 52531, vuelta: 41, contador: 108
+hola soy 52534, vuelta: 43, contador: 109
+hola soy 52536, vuelta: 39, contador: 109
+hola soy 52532, vuelta: 64, contador: 109
+hola soy 52531, vuelta: 42, contador: 110
+hola soy 52536, vuelta: 40, contador: 110
+hola soy 52534, vuelta: 44, contador: 110
+hola soy 52532, vuelta: 65, contador: 111
+hola soy 52531, vuelta: 43, contador: 112
+hola soy 52536, vuelta: 41, contador: 112
+hola soy 52534, vuelta: 45, contador: 113
+hola soy 52532, vuelta: 66, contador: 113
+hola soy 52531, vuelta: 44, contador: 115
+hola soy 52536, vuelta: 42, contador: 115
+hola soy 52532, vuelta: 67, contador: 115
+hola soy 52534, vuelta: 46, contador: 115
+hola soy 52531, vuelta: 45, contador: 116
+hola soy 52536, vuelta: 43, contador: 116
+hola soy 52534, vuelta: 47, contador: 117
+hola soy 52532, vuelta: 68, contador: 118
+hola soy 52536, vuelta: 44, contador: 118
+hola soy 52531, vuelta: 46, contador: 118
+hola soy 52534, vuelta: 48, contador: 119
+hola soy 52532, vuelta: 69, contador: 120
+hola soy 52531, vuelta: 47, contador: 120
+hola soy 52536, vuelta: 45, contador: 120
+hola soy 52534, vuelta: 49, contador: 122
+hola soy 52532, vuelta: 70, contador: 122
+hola soy 52531, vuelta: 48, contador: 123
+hola soy 52536, vuelta: 46, contador: 123
+hola soy 52534, vuelta: 50, contador: 124
+hola soy 52531, vuelta: 49, contador: 124
+hola soy 52532, vuelta: 71, contador: 124
+hola soy 52536, vuelta: 47, contador: 124
+hola soy 52532, vuelta: 72, contador: 125
+hola soy 52534, vuelta: 51, contador: 125
+hola soy 52536, vuelta: 48, contador: 125
+hola soy 52531, vuelta: 50, contador: 126
+hola soy 52532, vuelta: 73, contador: 126
+hola soy 52536, vuelta: 49, contador: 127
+hola soy 52534, vuelta: 52, contador: 127
+hola soy 52531, vuelta: 51, contador: 128
+hola soy 52532, vuelta: 74, contador: 128
+hola soy 52534, vuelta: 53, contador: 129
+hola soy 52536, vuelta: 50, contador: 130
+hola soy 52532, vuelta: 75, contador: 130
+hola soy 52531, vuelta: 52, contador: 130
+hola soy 52534, vuelta: 54, contador: 131
+hola soy 52536, vuelta: 51, contador: 132
+hola soy 52531, vuelta: 53, contador: 132
+hola soy 52532, vuelta: 76, contador: 132
+hola soy 52534, vuelta: 55, contador: 133
+hola soy 52536, vuelta: 52, contador: 134
+hola soy 52531, vuelta: 54, contador: 134
+hola soy 52532, vuelta: 77, contador: 135
+hola soy 52534, vuelta: 56, contador: 135
+hola soy 52531, vuelta: 55, contador: 136
+hola soy 52532, vuelta: 78, contador: 137
+hola soy 52536, vuelta: 53, contador: 137
+hola soy 52534, vuelta: 57, contador: 137
+hola soy 52531, vuelta: 56, contador: 138
+hola soy 52532, vuelta: 79, contador: 139
+hola soy 52536, vuelta: 54, contador: 139
+hola soy 52534, vuelta: 58, contador: 139
+hola soy 52531, vuelta: 57, contador: 140
+hola soy 52532, vuelta: 80, contador: 141
+hola soy 52534, vuelta: 59, contador: 141
+hola soy 52536, vuelta: 55, contador: 141
+hola soy 52531, vuelta: 58, contador: 142
+hola soy 52532, vuelta: 81, contador: 142
+hola soy 52534, vuelta: 60, contador: 143
+hola soy 52536, vuelta: 56, contador: 143
+hola soy 52531, vuelta: 59, contador: 144
+hola soy 52532, vuelta: 82, contador: 144
+hola soy 52534, vuelta: 61, contador: 145
+hola soy 52536, vuelta: 57, contador: 145
+hola soy 52531, vuelta: 60, contador: 146
+hola soy 52532, vuelta: 83, contador: 146
+hola soy 52534, vuelta: 62, contador: 147
+hola soy 52536, vuelta: 58, contador: 148
+hola soy 52532, vuelta: 84, contador: 148
+hola soy 52531, vuelta: 61, contador: 148
+hola soy 52534, vuelta: 63, contador: 149
+hola soy 52532, vuelta: 85, contador: 150
+hola soy 52531, vuelta: 62, contador: 150
+hola soy 52536, vuelta: 59, contador: 150
+hola soy 52534, vuelta: 64, contador: 151
+hola soy 52532, vuelta: 86, contador: 152
+hola soy 52536, vuelta: 60, contador: 152
+hola soy 52531, vuelta: 63, contador: 152
+hola soy 52534, vuelta: 65, contador: 153
+hola soy 52532, vuelta: 87, contador: 153
+hola soy 52536, vuelta: 61, contador: 153
+hola soy 52531, vuelta: 64, contador: 153
+hola soy 52534, vuelta: 66, contador: 154
+hola soy 52536, vuelta: 62, contador: 154
+hola soy 52532, vuelta: 88, contador: 154
+hola soy 52531, vuelta: 65, contador: 154
+hola soy 52534, vuelta: 67, contador: 155
+hola soy 52532, vuelta: 89, contador: 155
+hola soy 52531, vuelta: 66, contador: 155
+hola soy 52536, vuelta: 63, contador: 155
+hola soy 52534, vuelta: 68, contador: 156
+hola soy 52532, vuelta: 90, contador: 157
+hola soy 52531, vuelta: 67, contador: 158
+hola soy 52536, vuelta: 64, contador: 158
+hola soy 52534, vuelta: 69, contador: 158
+hola soy 52532, vuelta: 91, contador: 159
+hola soy 52531, vuelta: 68, contador: 159
+hola soy 52536, vuelta: 65, contador: 160
+hola soy 52534, vuelta: 70, contador: 160
+hola soy 52531, vuelta: 69, contador: 161
+hola soy 52532, vuelta: 92, contador: 162
+hola soy 52536, vuelta: 66, contador: 162
+hola soy 52534, vuelta: 71, contador: 162
+hola soy 52532, vuelta: 93, contador: 163
+hola soy 52531, vuelta: 70, contador: 163
+hola soy 52534, vuelta: 72, contador: 163
+hola soy 52536, vuelta: 67, contador: 164
+hola soy 52530, vuelta: 0, contador: 164
+hola soy 52532, vuelta: 94, contador: 165
+hola soy 52531, vuelta: 71, contador: 165
+hola soy 52534, vuelta: 73, contador: 165
+hola soy 52536, vuelta: 68, contador: 165
+hola soy 52530, vuelta: 1, contador: 166
+hola soy 52532, vuelta: 95, contador: 167
+hola soy 52531, vuelta: 72, contador: 167
+hola soy 52536, vuelta: 69, contador: 167
+hola soy 52534, vuelta: 74, contador: 167
+hola soy 52530, vuelta: 2, contador: 168
+hola soy 52532, vuelta: 96, contador: 169
+hola soy 52531, vuelta: 73, contador: 169
+hola soy 52536, vuelta: 70, contador: 169
+hola soy 52535, vuelta: 0, contador: 169
+hola soy 52534, vuelta: 75, contador: 169
+hola soy 52530, vuelta: 3, contador: 170
+hola soy 52532, vuelta: 97, contador: 171
+hola soy 52531, vuelta: 74, contador: 171
+hola soy 52535, vuelta: 1, contador: 171
+hola soy 52536, vuelta: 71, contador: 171
+hola soy 52534, vuelta: 76, contador: 171
+hola soy 52530, vuelta: 4, contador: 172
+hola soy 52535, vuelta: 2, contador: 173
+hola soy 52536, vuelta: 72, contador: 173
+hola soy 52531, vuelta: 75, contador: 173
+hola soy 52532, vuelta: 98, contador: 174
+hola soy 52534, vuelta: 77, contador: 174
+hola soy 52530, vuelta: 5, contador: 174
+hola soy 52535, vuelta: 3, contador: 175
+hola soy 52532, vuelta: 99, contador: 176
+hola soy 52531, vuelta: 76, contador: 176
+hola soy 52536, vuelta: 73, contador: 176
+hola soy 52534, vuelta: 78, contador: 176
+hola soy 52530, vuelta: 6, contador: 176
+hola soy 52531, vuelta: 77, contador: 178
+hola soy 52535, vuelta: 4, contador: 178
+hola soy 52536, vuelta: 74, contador: 178
+hola soy 52534, vuelta: 79, contador: 178
+hola soy 52530, vuelta: 7, contador: 178
+hola soy 52531, vuelta: 78, contador: 179
+hola soy 52535, vuelta: 5, contador: 179
+hola soy 52536, vuelta: 75, contador: 180
+hola soy 52534, vuelta: 80, contador: 180
+hola soy 52530, vuelta: 8, contador: 181
+hola soy 52531, vuelta: 79, contador: 181
+hola soy 52535, vuelta: 6, contador: 182
+hola soy 52534, vuelta: 81, contador: 182
+hola soy 52536, vuelta: 76, contador: 182
+hola soy 52530, vuelta: 9, contador: 183
+hola soy 52531, vuelta: 80, contador: 183
+hola soy 52534, vuelta: 82, contador: 184
+hola soy 52535, vuelta: 7, contador: 184
+hola soy 52536, vuelta: 77, contador: 184
+hola soy 52530, vuelta: 10, contador: 185
+hola soy 52531, vuelta: 81, contador: 185
+hola soy 52534, vuelta: 83, contador: 186
+hola soy 52535, vuelta: 8, contador: 186
+hola soy 52536, vuelta: 78, contador: 186
+hola soy 52530, vuelta: 11, contador: 187
+hola soy 52531, vuelta: 82, contador: 187
+hola soy 52534, vuelta: 84, contador: 188
+hola soy 52536, vuelta: 79, contador: 188
+hola soy 52535, vuelta: 9, contador: 188
+hola soy 52530, vuelta: 12, contador: 189
+hola soy 52531, vuelta: 83, contador: 189
+hola soy 52534, vuelta: 85, contador: 190
+hola soy 52536, vuelta: 80, contador: 190
+hola soy 52535, vuelta: 10, contador: 190
+hola soy 52530, vuelta: 13, contador: 191
+hola soy 52531, vuelta: 84, contador: 191
+hola soy 52534, vuelta: 86, contador: 192
+hola soy 52535, vuelta: 11, contador: 192
+hola soy 52536, vuelta: 81, contador: 192
+hola soy 52531, vuelta: 85, contador: 193
+hola soy 52530, vuelta: 14, contador: 193
+hola soy 52534, vuelta: 87, contador: 194
+hola soy 52536, vuelta: 82, contador: 194
+hola soy 52535, vuelta: 12, contador: 194
+hola soy 52531, vuelta: 86, contador: 195
+hola soy 52530, vuelta: 15, contador: 196
+hola soy 52534, vuelta: 88, contador: 197
+hola soy 52535, vuelta: 13, contador: 197
+hola soy 52536, vuelta: 83, contador: 197
+hola soy 52530, vuelta: 16, contador: 198
+hola soy 52531, vuelta: 87, contador: 198
+hola soy 52534, vuelta: 89, contador: 199
+hola soy 52535, vuelta: 14, contador: 199
+hola soy 52536, vuelta: 84, contador: 200
+hola soy 52530, vuelta: 17, contador: 200
+hola soy 52531, vuelta: 88, contador: 200
+hola soy 52534, vuelta: 90, contador: 201
+hola soy 52535, vuelta: 15, contador: 201
+hola soy 52536, vuelta: 85, contador: 201
+hola soy 52530, vuelta: 18, contador: 202
+hola soy 52531, vuelta: 89, contador: 203
+hola soy 52534, vuelta: 91, contador: 203
+hola soy 52535, vuelta: 16, contador: 203
+hola soy 52536, vuelta: 86, contador: 204
+hola soy 52530, vuelta: 19, contador: 204
+hola soy 52531, vuelta: 90, contador: 205
+hola soy 52534, vuelta: 92, contador: 205
+hola soy 52535, vuelta: 17, contador: 205
+hola soy 52536, vuelta: 87, contador: 206
+hola soy 52530, vuelta: 20, contador: 207
+hola soy 52531, vuelta: 91, contador: 207
+hola soy 52534, vuelta: 93, contador: 207
+hola soy 52535, vuelta: 18, contador: 207
+hola soy 52536, vuelta: 88, contador: 208
+hola soy 52530, vuelta: 21, contador: 208
+hola soy 52534, vuelta: 94, contador: 209
+hola soy 52531, vuelta: 92, contador: 209
+hola soy 52535, vuelta: 19, contador: 210
+hola soy 52536, vuelta: 89, contador: 210
+hola soy 52530, vuelta: 22, contador: 210
+hola soy 52534, vuelta: 95, contador: 211
+hola soy 52531, vuelta: 93, contador: 212
+hola soy 52535, vuelta: 20, contador: 213
+hola soy 52536, vuelta: 90, contador: 213
+hola soy 52530, vuelta: 23, contador: 213
+hola soy 52534, vuelta: 96, contador: 213
+hola soy 52536, vuelta: 91, contador: 214
+hola soy 52531, vuelta: 94, contador: 214
+hola soy 52535, vuelta: 21, contador: 215
+hola soy 52530, vuelta: 24, contador: 215
+hola soy 52534, vuelta: 97, contador: 215
+hola soy 52536, vuelta: 92, contador: 217
+hola soy 52531, vuelta: 95, contador: 217
+hola soy 52535, vuelta: 22, contador: 217
+hola soy 52534, vuelta: 98, contador: 217
+hola soy 52536, vuelta: 93, contador: 218
+hola soy 52531, vuelta: 96, contador: 218
+hola soy 52530, vuelta: 25, contador: 218
+hola soy 52535, vuelta: 23, contador: 219
+hola soy 52534, vuelta: 99, contador: 219
+hola soy 52536, vuelta: 94, contador: 220
+hola soy 52530, vuelta: 26, contador: 220
+hola soy 52531, vuelta: 97, contador: 220
+hola soy 52535, vuelta: 24, contador: 220
+hola soy 52536, vuelta: 95, contador: 221
+hola soy 52531, vuelta: 98, contador: 221
+hola soy 52530, vuelta: 27, contador: 221
+hola soy 52535, vuelta: 25, contador: 223
+hola soy 52536, vuelta: 96, contador: 223
+hola soy 52531, vuelta: 99, contador: 223
+hola soy 52530, vuelta: 28, contador: 223
+hola soy 52536, vuelta: 97, contador: 224
+hola soy 52536, vuelta: 98, contador: 226
+hola soy 52535, vuelta: 26, contador: 226
+hola soy 52536, vuelta: 99, contador: 227
+hola soy 52535, vuelta: 27, contador: 228
+hola soy 52530, vuelta: 29, contador: 228
+hola soy 52535, vuelta: 28, contador: 229
+hola soy 52530, vuelta: 30, contador: 230
+hola soy 52535, vuelta: 29, contador: 231
+hola soy 52530, vuelta: 31, contador: 232
+hola soy 52535, vuelta: 30, contador: 233
+hola soy 52535, vuelta: 31, contador: 234
+hola soy 52535, vuelta: 32, contador: 235
+hola soy 52535, vuelta: 33, contador: 236
+hola soy 52530, vuelta: 32, contador: 237
+hola soy 52535, vuelta: 34, contador: 238
+hola soy 52530, vuelta: 33, contador: 238
+hola soy 52530, vuelta: 34, contador: 240
+hola soy 52535, vuelta: 35, contador: 240
+hola soy 52530, vuelta: 35, contador: 241
+hola soy 52535, vuelta: 36, contador: 241
+hola soy 52530, vuelta: 36, contador: 242
+hola soy 52535, vuelta: 37, contador: 242
+hola soy 52530, vuelta: 37, contador: 243
+hola soy 52535, vuelta: 38, contador: 244
+hola soy 52530, vuelta: 38, contador: 245
+hola soy 52535, vuelta: 39, contador: 245
+hola soy 52530, vuelta: 39, contador: 246
+hola soy 52535, vuelta: 40, contador: 247
+hola soy 52530, vuelta: 40, contador: 248
+hola soy 52535, vuelta: 41, contador: 249
+hola soy 52530, vuelta: 41, contador: 250
+hola soy 52535, vuelta: 42, contador: 251
+hola soy 52530, vuelta: 42, contador: 252
+hola soy 52535, vuelta: 43, contador: 253
+hola soy 52530, vuelta: 43, contador: 254
+hola soy 52535, vuelta: 44, contador: 255
+hola soy 52530, vuelta: 44, contador: 256
+hola soy 52535, vuelta: 45, contador: 257
+hola soy 52530, vuelta: 45, contador: 258
+hola soy 52535, vuelta: 46, contador: 259
+hola soy 52530, vuelta: 46, contador: 260
+hola soy 52535, vuelta: 47, contador: 261
+hola soy 52530, vuelta: 47, contador: 262
+hola soy 52535, vuelta: 48, contador: 263
+hola soy 52530, vuelta: 48, contador: 264
+hola soy 52535, vuelta: 49, contador: 265
+hola soy 52530, vuelta: 49, contador: 266
+hola soy 52535, vuelta: 50, contador: 267
+hola soy 52535, vuelta: 51, contador: 269
+hola soy 52530, vuelta: 50, contador: 268
+hola soy 52535, vuelta: 52, contador: 270
+hola soy 52530, vuelta: 51, contador: 271
+hola soy 52535, vuelta: 53, contador: 272
+hola soy 52530, vuelta: 52, contador: 273
+hola soy 52535, vuelta: 54, contador: 274
+hola soy 52530, vuelta: 53, contador: 275
+hola soy 52535, vuelta: 55, contador: 276
+hola soy 52530, vuelta: 54, contador: 277
+hola soy 52535, vuelta: 56, contador: 278
+hola soy 52530, vuelta: 55, contador: 279
+hola soy 52535, vuelta: 57, contador: 280
+hola soy 52530, vuelta: 56, contador: 281
+hola soy 52535, vuelta: 58, contador: 282
+hola soy 52530, vuelta: 57, contador: 283
+hola soy 52535, vuelta: 59, contador: 284
+hola soy 52530, vuelta: 58, contador: 285
+hola soy 52535, vuelta: 60, contador: 286
+hola soy 52530, vuelta: 59, contador: 287
+hola soy 52535, vuelta: 61, contador: 288
+hola soy 52530, vuelta: 60, contador: 289
+hola soy 52535, vuelta: 62, contador: 290
+hola soy 52530, vuelta: 61, contador: 291
+hola soy 52530, vuelta: 62, contador: 293
+hola soy 52530, vuelta: 63, contador: 294
+hola soy 52530, vuelta: 64, contador: 295
+hola soy 52530, vuelta: 65, contador: 296
+hola soy 52530, vuelta: 66, contador: 297
+hola soy 52530, vuelta: 67, contador: 298
+hola soy 52530, vuelta: 68, contador: 299
+hola soy 52530, vuelta: 69, contador: 300
+hola soy 52530, vuelta: 70, contador: 301
+hola soy 52530, vuelta: 71, contador: 302
+hola soy 52530, vuelta: 72, contador: 303
+hola soy 52530, vuelta: 73, contador: 304
+hola soy 52530, vuelta: 74, contador: 305
+hola soy 52530, vuelta: 75, contador: 306
+hola soy 52530, vuelta: 76, contador: 307
+hola soy 52530, vuelta: 77, contador: 308
+hola soy 52530, vuelta: 78, contador: 309
+hola soy 52530, vuelta: 79, contador: 310
+hola soy 52530, vuelta: 80, contador: 311
+hola soy 52530, vuelta: 81, contador: 312
+hola soy 52530, vuelta: 82, contador: 313
+hola soy 52530, vuelta: 83, contador: 314
+hola soy 52530, vuelta: 84, contador: 315
+hola soy 52530, vuelta: 85, contador: 316
+hola soy 52535, vuelta: 63, contador: 292
+hola soy 52530, vuelta: 86, contador: 317
+hola soy 52530, vuelta: 87, contador: 318
+hola soy 52530, vuelta: 88, contador: 319
+hola soy 52530, vuelta: 89, contador: 320
+hola soy 52530, vuelta: 90, contador: 321
+hola soy 52535, vuelta: 64, contador: 321
+hola soy 52530, vuelta: 91, contador: 322
+hola soy 52535, vuelta: 65, contador: 322
+hola soy 52530, vuelta: 92, contador: 323
+hola soy 52533, vuelta: 0, contador: 323
+hola soy 52535, vuelta: 66, contador: 323
+hola soy 52530, vuelta: 93, contador: 324
+hola soy 52535, vuelta: 67, contador: 324
+hola soy 52533, vuelta: 1, contador: 324
+hola soy 52530, vuelta: 94, contador: 325
+hola soy 52535, vuelta: 68, contador: 325
+hola soy 52533, vuelta: 2, contador: 325
+hola soy 52530, vuelta: 95, contador: 326
+hola soy 52535, vuelta: 69, contador: 326
+hola soy 52533, vuelta: 3, contador: 326
+hola soy 52535, vuelta: 70, contador: 327
+hola soy 52530, vuelta: 96, contador: 327
+hola soy 52533, vuelta: 4, contador: 327
+hola soy 52537, vuelta: 0, contador: 327
+hola soy 52530, vuelta: 97, contador: 328
+hola soy 52533, vuelta: 5, contador: 328
+hola soy 52535, vuelta: 71, contador: 328
+hola soy 52537, vuelta: 1, contador: 328
+hola soy 52533, vuelta: 6, contador: 329
+hola soy 52535, vuelta: 72, contador: 329
+hola soy 52530, vuelta: 98, contador: 329
+hola soy 52537, vuelta: 2, contador: 329
+hola soy 52535, vuelta: 73, contador: 330
+hola soy 52533, vuelta: 7, contador: 330
+hola soy 52537, vuelta: 3, contador: 330
+hola soy 52530, vuelta: 99, contador: 330
+hola soy 52535, vuelta: 74, contador: 331
+hola soy 52533, vuelta: 8, contador: 331
+hola soy 52537, vuelta: 4, contador: 331
+hola soy 52535, vuelta: 75, contador: 332
+hola soy 52533, vuelta: 9, contador: 332
+hola soy 52537, vuelta: 5, contador: 332
+hola soy 52535, vuelta: 76, contador: 333
+hola soy 52533, vuelta: 10, contador: 333
+hola soy 52537, vuelta: 6, contador: 334
+hola soy 52535, vuelta: 77, contador: 334
+hola soy 52533, vuelta: 11, contador: 334
+hola soy 52537, vuelta: 7, contador: 335
+hola soy 52533, vuelta: 12, contador: 336
+hola soy 52537, vuelta: 8, contador: 337
+hola soy 52533, vuelta: 13, contador: 337
+hola soy 52535, vuelta: 78, contador: 338
+hola soy 52537, vuelta: 9, contador: 338
+hola soy 52533, vuelta: 14, contador: 340
+hola soy 52535, vuelta: 79, contador: 340
+hola soy 52537, vuelta: 10, contador: 340
+hola soy 52533, vuelta: 15, contador: 341
+hola soy 52535, vuelta: 80, contador: 342
+hola soy 52537, vuelta: 11, contador: 342
+hola soy 52533, vuelta: 16, contador: 343
+hola soy 52535, vuelta: 81, contador: 344
+hola soy 52537, vuelta: 12, contador: 344
+hola soy 52533, vuelta: 17, contador: 345
+hola soy 52535, vuelta: 82, contador: 345
+hola soy 52537, vuelta: 13, contador: 346
+hola soy 52533, vuelta: 18, contador: 347
+hola soy 52535, vuelta: 83, contador: 347
+hola soy 52537, vuelta: 14, contador: 348
+hola soy 52533, vuelta: 19, contador: 349
+hola soy 52535, vuelta: 84, contador: 349
+hola soy 52537, vuelta: 15, contador: 350
+hola soy 52537, vuelta: 16, contador: 352
+hola soy 52535, vuelta: 85, contador: 353
+hola soy 52537, vuelta: 17, contador: 353
+hola soy 52533, vuelta: 20, contador: 354
+hola soy 52535, vuelta: 86, contador: 351
+hola soy 52537, vuelta: 18, contador: 351
+hola soy 52533, vuelta: 21, contador: 352
+hola soy 52535, vuelta: 87, contador: 353
+hola soy 52537, vuelta: 19, contador: 353
+hola soy 52533, vuelta: 22, contador: 354
+hola soy 52535, vuelta: 88, contador: 354
+hola soy 52537, vuelta: 20, contador: 355
+hola soy 52533, vuelta: 23, contador: 356
+hola soy 52535, vuelta: 89, contador: 356
+hola soy 52533, vuelta: 24, contador: 358
+hola soy 52537, vuelta: 21, contador: 358
+hola soy 52535, vuelta: 90, contador: 359
+hola soy 52533, vuelta: 25, contador: 359
+hola soy 52537, vuelta: 22, contador: 360
+hola soy 52533, vuelta: 26, contador: 361
+hola soy 52535, vuelta: 91, contador: 362
+hola soy 52533, vuelta: 27, contador: 363
+hola soy 52537, vuelta: 23, contador: 362
+hola soy 52533, vuelta: 28, contador: 365
+hola soy 52537, vuelta: 24, contador: 366
+hola soy 52533, vuelta: 29, contador: 366
+hola soy 52537, vuelta: 25, contador: 367
+hola soy 52533, vuelta: 30, contador: 367
+hola soy 52537, vuelta: 26, contador: 368
+hola soy 52533, vuelta: 31, contador: 368
+hola soy 52535, vuelta: 92, contador: 368
+hola soy 52537, vuelta: 27, contador: 369
+hola soy 52533, vuelta: 32, contador: 369
+hola soy 52535, vuelta: 93, contador: 370
+hola soy 52533, vuelta: 33, contador: 371
+hola soy 52537, vuelta: 28, contador: 371
+hola soy 52533, vuelta: 34, contador: 372
+hola soy 52537, vuelta: 29, contador: 373
+hola soy 52533, vuelta: 35, contador: 374
+hola soy 52537, vuelta: 30, contador: 374
+hola soy 52533, vuelta: 36, contador: 375
+hola soy 52537, vuelta: 31, contador: 377
+hola soy 52533, vuelta: 37, contador: 377
+hola soy 52535, vuelta: 94, contador: 375
+hola soy 52533, vuelta: 38, contador: 376
+hola soy 52537, vuelta: 32, contador: 376
+hola soy 52533, vuelta: 39, contador: 377
+hola soy 52537, vuelta: 33, contador: 378
+hola soy 52533, vuelta: 40, contador: 379
+hola soy 52535, vuelta: 95, contador: 379
+hola soy 52537, vuelta: 34, contador: 380
+hola soy 52533, vuelta: 41, contador: 381
+hola soy 52535, vuelta: 96, contador: 381
+hola soy 52537, vuelta: 35, contador: 382
+hola soy 52535, vuelta: 97, contador: 383
+hola soy 52537, vuelta: 36, contador: 384
+hola soy 52535, vuelta: 98, contador: 385
+hola soy 52533, vuelta: 42, contador: 386
+hola soy 52537, vuelta: 37, contador: 386
+hola soy 52535, vuelta: 99, contador: 387
+hola soy 52533, vuelta: 43, contador: 387
+hola soy 52537, vuelta: 38, contador: 388
+hola soy 52533, vuelta: 44, contador: 388
+hola soy 52537, vuelta: 39, contador: 389
+hola soy 52533, vuelta: 45, contador: 390
+hola soy 52537, vuelta: 40, contador: 390
+hola soy 52533, vuelta: 46, contador: 391
+hola soy 52533, vuelta: 47, contador: 392
+hola soy 52537, vuelta: 41, contador: 392
+hola soy 52533, vuelta: 48, contador: 393
+hola soy 52537, vuelta: 42, contador: 394
+hola soy 52533, vuelta: 49, contador: 394
+hola soy 52537, vuelta: 43, contador: 395
+hola soy 52533, vuelta: 50, contador: 395
+hola soy 52537, vuelta: 44, contador: 396
+hola soy 52533, vuelta: 51, contador: 396
+hola soy 52537, vuelta: 45, contador: 397
+hola soy 52533, vuelta: 52, contador: 397
+hola soy 52537, vuelta: 46, contador: 398
+hola soy 52533, vuelta: 53, contador: 398
+hola soy 52537, vuelta: 47, contador: 399
+hola soy 52533, vuelta: 54, contador: 399
+hola soy 52537, vuelta: 48, contador: 400
+hola soy 52533, vuelta: 55, contador: 400
+hola soy 52537, vuelta: 49, contador: 401
+hola soy 52533, vuelta: 56, contador: 401
+hola soy 52537, vuelta: 50, contador: 402
+hola soy 52533, vuelta: 57, contador: 402
+hola soy 52537, vuelta: 51, contador: 403
+hola soy 52533, vuelta: 58, contador: 403
+hola soy 52537, vuelta: 52, contador: 404
+hola soy 52533, vuelta: 59, contador: 405
+hola soy 52537, vuelta: 53, contador: 405
+hola soy 52533, vuelta: 60, contador: 406
+hola soy 52537, vuelta: 54, contador: 406
+hola soy 52533, vuelta: 61, contador: 407
+hola soy 52537, vuelta: 55, contador: 407
+hola soy 52533, vuelta: 62, contador: 408
+hola soy 52537, vuelta: 56, contador: 408
+hola soy 52533, vuelta: 63, contador: 409
+hola soy 52537, vuelta: 57, contador: 409
+hola soy 52533, vuelta: 64, contador: 410
+hola soy 52537, vuelta: 58, contador: 410
+hola soy 52533, vuelta: 65, contador: 411
+hola soy 52537, vuelta: 59, contador: 411
+hola soy 52533, vuelta: 66, contador: 412
+hola soy 52537, vuelta: 60, contador: 412
+hola soy 52533, vuelta: 67, contador: 413
+hola soy 52537, vuelta: 61, contador: 413
+hola soy 52533, vuelta: 68, contador: 414
+hola soy 52537, vuelta: 62, contador: 414
+hola soy 52533, vuelta: 69, contador: 415
+hola soy 52537, vuelta: 63, contador: 415
+hola soy 52533, vuelta: 70, contador: 416
+hola soy 52537, vuelta: 64, contador: 416
+hola soy 52533, vuelta: 71, contador: 417
+hola soy 52537, vuelta: 65, contador: 418
+hola soy 52533, vuelta: 72, contador: 418
+hola soy 52537, vuelta: 66, contador: 419
+hola soy 52533, vuelta: 73, contador: 419
+hola soy 52537, vuelta: 67, contador: 420
+hola soy 52533, vuelta: 74, contador: 420
+hola soy 52537, vuelta: 68, contador: 421
+hola soy 52533, vuelta: 75, contador: 421
+hola soy 52537, vuelta: 69, contador: 422
+hola soy 52533, vuelta: 76, contador: 422
+hola soy 52537, vuelta: 70, contador: 423
+hola soy 52533, vuelta: 77, contador: 423
+hola soy 52537, vuelta: 71, contador: 424
+hola soy 52533, vuelta: 78, contador: 424
+hola soy 52537, vuelta: 72, contador: 425
+hola soy 52533, vuelta: 79, contador: 425
+hola soy 52537, vuelta: 73, contador: 426
+hola soy 52533, vuelta: 80, contador: 426
+hola soy 52537, vuelta: 74, contador: 427
+hola soy 52533, vuelta: 81, contador: 427
+hola soy 52537, vuelta: 75, contador: 428
+hola soy 52533, vuelta: 82, contador: 428
+hola soy 52537, vuelta: 76, contador: 429
+hola soy 52537, vuelta: 77, contador: 430
+hola soy 52537, vuelta: 78, contador: 431
+hola soy 52537, vuelta: 79, contador: 432
+hola soy 52533, vuelta: 83, contador: 429
+hola soy 52537, vuelta: 80, contador: 433
+hola soy 52533, vuelta: 84, contador: 434
+hola soy 52537, vuelta: 81, contador: 435
+hola soy 52533, vuelta: 85, contador: 436
+hola soy 52537, vuelta: 82, contador: 437
+hola soy 52533, vuelta: 86, contador: 438
+hola soy 52537, vuelta: 83, contador: 439
+hola soy 52533, vuelta: 87, contador: 440
+hola soy 52537, vuelta: 84, contador: 441
+hola soy 52533, vuelta: 88, contador: 442
+hola soy 52537, vuelta: 85, contador: 443
+hola soy 52533, vuelta: 89, contador: 444
+hola soy 52537, vuelta: 86, contador: 445
+hola soy 52533, vuelta: 90, contador: 446
+hola soy 52537, vuelta: 87, contador: 447
+hola soy 52533, vuelta: 91, contador: 448
+hola soy 52537, vuelta: 88, contador: 449
+hola soy 52533, vuelta: 92, contador: 450
+hola soy 52537, vuelta: 89, contador: 451
+hola soy 52533, vuelta: 93, contador: 452
+hola soy 52533, vuelta: 94, contador: 454
+hola soy 52533, vuelta: 95, contador: 455
+hola soy 52533, vuelta: 96, contador: 456
+hola soy 52533, vuelta: 97, contador: 457
+hola soy 52533, vuelta: 98, contador: 458
+hola soy 52537, vuelta: 90, contador: 453
+hola soy 52533, vuelta: 99, contador: 459
+hola soy 52537, vuelta: 91, contador: 460
+hola soy 52537, vuelta: 92, contador: 461
+hola soy 52537, vuelta: 93, contador: 462
+hola soy 52537, vuelta: 94, contador: 463
+hola soy 52537, vuelta: 95, contador: 464
+hola soy 52537, vuelta: 96, contador: 465
+hola soy 52537, vuelta: 97, contador: 466
+hola soy 52537, vuelta: 98, contador: 467
+hola soy 52537, vuelta: 99, contador: 468
+adios
+Valor final del contador 468
+fin
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Air-de-Laura.local/Users/lau/git/pruebas[0m[27m[24m[Jlau@MacBook-Air-de-Laura pruebas % [K[?2004h[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+Deleting expired sessions...none found.
+
+Script done on Fri Feb  3 19:33:31 2023
